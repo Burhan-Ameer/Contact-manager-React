@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Burhan Ameer",
+      "email": "burhanameer2@gmail.com",
+      "phone": "03214328169",
+      "id": "4821"
+    },
+    {
+      "name": "Burhan Ameer",
+      "email": "helloworld@gmail.com",
+      "phone": "45454545454",
+      "id": "6131"
+    },
+    {
+      "id": "9b67",
+      "name": "IT Department",
+      "phone": "03094165137",
+      "email": "malikawan@123gmail.com"
+    },
+    {
+      "id": "386a",
+      "name": "MUHAMMAD HANZLA",
+      "phone": "03241461287",
+      "email": "hanzla786@gmail.com"
+    },
+    {
+      "id": "20a8",
+      "name": "Abdul Ghani Imran",
+      "email": "abdulghani@gmail.com",
+      "phone": "032161411385"
+    },
+    {
+      "id": "124f",
+      "name": "Ahmad Javed ",
+      "phone": "03065604351",
+      "email": "ahmedjaved1232@gmail.com"
+    }
+  ]
+}
